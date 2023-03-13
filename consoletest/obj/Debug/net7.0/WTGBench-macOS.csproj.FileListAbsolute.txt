@@ -1,0 +1,15 @@
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/WTGBench-macOS
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/WTGBench-macOS.deps.json
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/WTGBench-macOS.runtimeconfig.json
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/WTGBench-macOS.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/WTGBench-macOS.pdb
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.csproj.AssemblyReference.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.AssemblyInfoInputs.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.AssemblyInfo.cs
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.csproj.CoreCompileInputs.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/refint/WTGBench-macOS.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.pdb
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/WTGBench-macOS.genruntimeconfig.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/ref/WTGBench-macOS.dll

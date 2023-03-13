@@ -1,0 +1,15 @@
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/consoletest
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/consoletest.deps.json
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/consoletest.runtimeconfig.json
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/consoletest.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/bin/Debug/net7.0/consoletest.pdb
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.csproj.AssemblyReference.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.AssemblyInfoInputs.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.AssemblyInfo.cs
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/refint/consoletest.dll
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.pdb
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/consoletest.genruntimeconfig.cache
+/Users/nkc3g4li/Projects/consoletest/consoletest/obj/Debug/net7.0/ref/consoletest.dll
